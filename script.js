@@ -26,12 +26,12 @@ document.addEventListener("DOMContentLoaded", function () {
                 { name: "Chemistry", credit: 4 },
                 { name: "Engg. Math-2", credit: 4 },
                 { name: "Mechanical", credit: 3 },
-                { name: "Workshop", credit: 3 },
-                { name: "English", credit: 2 },
+                { name: "Electronics", credit: 3 },
+                { name: "Soft skill", credit: 3 },
                 { name: "Chemistry Lab", credit: 1 },
-                { name: "Mechanical Lab", credit: 1 },
-                { name: "C Programming", credit: 3 },
-                { name: "C Lab", credit: 1 }
+                { name: "Electronics Lab", credit: 1 },
+                { name: "English Lab", credit: 1 },
+                { name: "Workshop", credit: 2 }
             ]
         },
 
@@ -42,22 +42,22 @@ document.addEventListener("DOMContentLoaded", function () {
                 { name: "COA", credit: 4 },
                 { name: "Technical Communication", credit: 3 },
                 { name: "DSTL", credit: 3 },
-                { name: "Cyber Security", credit: 3 },
-                { name: "DSA Lab", credit: 1 },
+                { name: "Python Programming", credit: 2 },
+                { name: "DS Lab", credit: 1 },
                 { name: "COA Lab", credit: 1 },
-                { name: "Web Workshop", credit: 1 },
+                { name: "Web Desigining", credit: 1 },
                 { name: "Mini Project", credit: 2 }
             ],
             sem4: [
                 { name: "Maths-4", credit: 4 },
                 { name: "Operating System", credit: 4 },
-                { name: "OOP using Java", credit: 4 },
+                { name: "OOP using Java", credit: 3 },
+                { name: "TAFL", credit: 4 },
                 { name: "Universal Human Values", credit: 3 },
-                { name: "Python Programming", credit: 3 },
+                { name: "Cyber Security", credit: 2 },
                 { name: "OS Lab", credit: 1 },
-                { name: "Java Lab", credit: 1 },
-                { name: "Python Lab", credit: 1 },
-                { name: "Mini Project", credit: 2 }
+                { name: "OOPS Java Lab", credit: 1 },
+                { name: "Cyber Sec. Workshop", credit: 1 }
             ]
         },
 
